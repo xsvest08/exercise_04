@@ -14,7 +14,7 @@ In comparison with Needleman-Wunsch algorithm, Hirschberg's algorithm is more sp
 More information can be also file on [wikipedia](https://en.wikipedia.org/wiki/Hirschberg%27s_algorithm).
 
 <details>
-<summary>Spoilers! Nápověda</summary>
+<summary>Spoilers! Help</summary>
 
 #### Pseudo code of Hirschberg's algorithm
 ```
@@ -46,7 +46,7 @@ function Hirschberg(X, Y)
     end
     return (Z, W)
 ```
-
+</details>
 <details>
 <summary>Download files from GitHub</summary>
 <details>
